@@ -20,6 +20,13 @@ export function Project(): JSX.Element {
   const categories: string[] = ['Web Development', 'Data/ML', 'Cloud'];
   const projectsByCategory: ProjectsByCategory = {
     'Web Development': [
+     {
+        name: 'STRAI',
+        link: 'https://github.com/WinexWolf/nextjs-flask-framework/',
+        description:
+          'A responsive AI-powered web application, STRAI - Strategic AI Branding Expert. STRAI serves as a chatbot specializing in marketing and branding strategies, providing expert advice and generating comprehensive brand value documents to enhance customer outreach and engagement.',
+        techStack: ['Next.js', 'TypeScript', 'Tailwind CSS', 'Flask', 'Google Cloud Platform', 'MySQL', 'OpenAI API'],
+      },
       {
         name: 'Emergency Social Network',
         link: 'https://s23esna4.onrender.com/',
@@ -31,7 +38,7 @@ export function Project(): JSX.Element {
         name: 'WellNest',
         link: 'https://github.com/WinexWolf/WellNestApp',
         description:
-          'An all-in-one solution to bridge the gap between mental health awareness, prevention, and treatment for young professionals. Ideated and implemented from concept to MVP. Conducted market research, interviews, and design walkthroughs to refine the vision. Directed prototype interaction and usability testing, facilitating agile development and delivery.   ',
+          'A mental health awareness, prevention, and treatment app for young professionals. Ideated and implemented from concept to MVP via market research, prototyping and delivery.  ',
         techStack: ['React', 'Material UI', 'Tailwind CSS', ],
       },
          {

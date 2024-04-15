@@ -11,7 +11,7 @@ export const Container = styled.section`
   }
   .projects{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(auto-fill, minmax(500px, 1fr)); /* Adjust the minimum width as needed */
     grid-template-rows: auto;
     gap: 2rem;
     padding: 1rem;
@@ -103,16 +103,21 @@ export const Container = styled.section`
     }
   }
 
- 
-  @media (max-width: 960px){
-    .projects{
-      grid-template-columns: 1fr 1fr;
+
+
+  @media (max-width: 1040px) {
+    .projects {
+      
+      grid-template-columns: repeat(auto-fill, minmax(50%, 1fr)); /* Adjust the minimum width as needed */
+      font-size: 1.6rem;
+
     }
   }
 
-  @media (max-width: 740px){
-    .projects{
+  @media (max-width: 740px) {
+    .projects {
       grid-template-columns: 1fr;
+      font-size: 1rem;
     }
   }
 `
