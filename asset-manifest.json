@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/anukriti-portfolio/static/css/main.039bf95e.css",
-    "main.js": "/anukriti-portfolio/static/js/main.acf8fdc6.js",
+    "main.js": "/anukriti-portfolio/static/js/main.0ebc5f76.js",
     "static/media/Hello.gif": "/anukriti-portfolio/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/Headshot-AJ.png": "/anukriti-portfolio/static/media/Headshot-AJ.faba8f03e5887ce3c941.png",
     "static/media/AnukritiJaiswal_Resume.pdf": "/anukriti-portfolio/static/media/AnukritiJaiswal_Resume.db096239c1c5a8f8df04.pdf",
@@ -28,10 +28,10 @@
     "static/media/js-icon.svg": "/anukriti-portfolio/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
     "static/media/medium.svg": "/anukriti-portfolio/static/media/medium.7dc193231c9bc177c6f60a0ac164c3b0.svg",
     "main.039bf95e.css.map": "/anukriti-portfolio/static/css/main.039bf95e.css.map",
-    "main.acf8fdc6.js.map": "/anukriti-portfolio/static/js/main.acf8fdc6.js.map"
+    "main.0ebc5f76.js.map": "/anukriti-portfolio/static/js/main.0ebc5f76.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.acf8fdc6.js"
+    "static/js/main.0ebc5f76.js"
   ]
 }
