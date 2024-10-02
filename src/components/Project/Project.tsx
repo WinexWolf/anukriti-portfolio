@@ -84,7 +84,7 @@ export function Project(): JSX.Element {
         name: 'Big Data Processing Toolbox',
         link: 'https://github.com/14-848-Cloud-Infrastructure-Spring-2024/course-project-option-1-jraviS2023/invitations',
         description:'Developed a microservice-based platform with containerized development tools. Employed Terraform for infrastructure-as-code and integrated Jenkins with SonarQube to automate quality analysis on public GitHub repositories. Ensured scalability, maintainability, and streamlined CI/CD practices within the platform.',
-        techStack: ['Apache Hadoop', 'Spark', 'Jenkins', 'SonarQube', 'Jupyter', 'Docker', 'Kubernetes (GKE)','Google Cloud Platform'],
+        techStack: ['Hadoop', 'Spark', 'Jenkins', 'Jupyter', 'Docker', 'Kubernetes (GKE)','GCP'],
       }
     ],
   };

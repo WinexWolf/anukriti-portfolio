@@ -1,5 +1,5 @@
 import { Container } from "./styles";
-import Headshot from "../../assets/Headshot-AJ.png"
+import Headshot from "../../assets/dpai.jpg"
 import dockerIcon from "../../assets/icons8-docker.svg";
 import gcpIcon from "../../assets/icons8-google-cloud.svg";
 import javaIcon from "../../assets/icons8-java.svg";

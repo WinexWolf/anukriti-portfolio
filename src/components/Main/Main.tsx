@@ -9,6 +9,7 @@ import stars from "../../assets/icons8-stars-64.png";
 import gates from "../../assets/icons8-logic-gate-xnor-64.png";
 import boostrapIcon from "../../assets/bootstrap-icon.svg";
 import { Experience } from "../Experience/Experience";
+import { Designs } from "../Designs/Designs";
 
 export function Main() {
   return (
@@ -198,6 +199,7 @@ export function Main() {
       <About></About>
       <Project></Project>
       <Experience></Experience>
+      <Designs></Designs>
       <Contact></Contact>
     </Container>
   );
